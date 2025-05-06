@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this toolbox, please cite it as below."
+title: "PCE-GPR: A toolbox for high-dimensional uncertainty quantification"
+version: 1.0.0
+doi: 10.5281/zenodo.XXXXXXX   # Replace with your Zenodo DOI *** TO BE UPDATED!!! ***
+date-released: 2025-05-06     # Update to actual release date *** TO BE UPDATED!!! ***
+authors:
+  - family-names: Manfredi
+    given-names: Paolo
+    orcid: https://orcid.org/0000-0002-0574-8945
+license: BSD-3-Clause
+repository-code: https://github.com/YOUR_USERNAME/uq-gpr-toolbox *** TO BE UPDATED!!! ***
