@@ -62,17 +62,17 @@ The user guide is available as a PDF in the [`docs/`](docs/) folder.
 
 If you use this toolbox in your research, please cite:
 
-P. Manfredi, A hybrid polynomial chaos expansion–Gaussian process regression method for Bayesian uncertainty quantification and sensitivity analysis, Computer Methods in Applied Mechanics and Engineering, vol. 436, no. 117693 (2025). DOI: *** TO BE UPDATED!!! ***
+> P. Manfredi, *A hybrid polynomial chaos expansion–Gaussian process regression method for Bayesian uncertainty quantification and sensitivity analysis*, Computer Methods in Applied Mechanics and Engineering, vol. 436, no. 117693 (2025). DOI: https://doi.org/10.1016/j.cma.2024.117693
 
-> P. Manfredi, *PCE-GPR: A toolbox for high-dimensional uncertainty quantification*. Zenodo. DOI: [placeholder] *** TO BE UPDATED!!! ***
+> P. Manfredi, *PCE-GPR: A toolbox for high-dimensional uncertainty quantification*, Zenodo (2025). DOI: https://doi.org/10.5281/zenodo.15348860
 
 Citation metadata is also available in [`CITATION.cff`](CITATION.cff).
 
 ## 🔗 Related Resources
 
-- 📚 Related publication: [Link to paper or preprint (coming soon)] *** TO BE UPDATED!!! ***
-- 💾 Benchmark datasets: [Link to Zenodo dataset DOI or folder] *** TO BE UPDATED!!! ***
+- 📚 Related publication: https://doi.org/10.1016/j.cma.2024.117693
+- 💾 Benchmark datasets: https://doi.org/10.5281/zenodo.15349691
 
 ## 🛠 License
 
-This project is licensed under the [MIT License](LICENSE). *** TO BE UPDATED!!! ***
+This project is licensed under the [BSD 3-Clause License](LICENSE).
