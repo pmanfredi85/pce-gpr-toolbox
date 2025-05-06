@@ -51,6 +51,7 @@ uq-gpr-toolbox/
 
 - MATLAB R2023b or newer (recommended)
 - UQLab release 2.0.0 (recommended)
+- Generalized chi-square distribution toolbox version 2.3.0 (recommended)
 - Statistics and Machine Learning Toolbox
 - Optimization Toolbox
 
@@ -70,6 +71,8 @@ Citation metadata is also available in [`CITATION.cff`](CITATION.cff).
 
 ## 🔗 Related Resources
 
+- 📘 [UQLab](https://www.uqlab.com): The original uncertainty quantification framework on which this toolbox is based.
+- 📘 [Generalized chi-square distribution](https://github.com/abhranildas/gx2/releases/tag/v2.3.0): The toolbox to support the generalized chi-square distribution.
 - 📚 Related publication: https://doi.org/10.1016/j.cma.2024.117693
 - 💾 Benchmark datasets: https://doi.org/10.5281/zenodo.15349691
 
