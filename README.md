@@ -37,7 +37,7 @@ uq-gpr-toolbox/
 
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/uq-gpr-toolbox.git *** TO BE UPDATED!!! ***
+   git clone https://github.com/pmanfredi85/pce-gpr-toolbox.git
    ```
 2. **Add the source folder to your MATLAB path**:
    ```matlab
