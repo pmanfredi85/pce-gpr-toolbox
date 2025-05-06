@@ -55,6 +55,16 @@ uq-gpr-toolbox/
 - Statistics and Machine Learning Toolbox
 - Optimization Toolbox
 
+## 🧩 Third-Party Components
+
+This toolbox includes components from the following external projects:
+
+- [UQLab]: a MATLAB toolbox licensed under the [BSD 3-Clause License](LICENSE)
+- [gx2]: a MATLAB toolbox licensed under the [MIT License](3rdparty/MIT_LICENSE.txt)
+
+The relevant files are used in accordance with their license terms. See the full license text in `3rdparty/MIT_LICENSE.txt`.
+
+
 ## 📄 Documentation
 
 The user guide is available as a PDF in the [`docs/`](docs/) folder.
@@ -72,7 +82,7 @@ Citation metadata is also available in [`CITATION.cff`](CITATION.cff).
 ## 🔗 Related Resources
 
 - 📘 [UQLab](https://www.uqlab.com): The original uncertainty quantification framework on which this toolbox is based.
-- 📘 [Generalized chi-square distribution](https://github.com/abhranildas/gx2/releases/tag/v2.3.0): The toolbox to support the generalized chi-square distribution.
+- 📘 [gx2](https://github.com/abhranildas/gx2/releases/tag/v2.3.0): The toolbox to support the generalized chi-square distribution.
 - 📚 Related publication: https://doi.org/10.1016/j.cma.2024.117693
 - 💾 Benchmark datasets: https://doi.org/10.5281/zenodo.15349691
 
