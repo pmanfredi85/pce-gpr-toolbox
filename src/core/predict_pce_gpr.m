@@ -30,7 +30,7 @@ function [y_gpr,y_pce,cov_gpr,cov_pce] = predict_pce_gpr(M_pce_gpr,x)
 %
 % Author: Paolo Manfredi
 % Affiliation: Politecnico di Torino
-% Date: March 2025
+% Date: November 2025
 
 
 %% reading necessary input parameters
@@ -81,7 +81,7 @@ if nargout>2
     rtilde = (1-tau)*kernel(x_train,x);
     invLr = L\rtilde;
 
-    cov_gpr = sigma2_tot*(kernel(x,x) - invLr'*invLr);
+    cov_gpr = sigma2_tot*((1-tau)*kernel(x,x) - invLr'*invLr);
 
     if nargout>3 && isfield(M_pce_gpr,'pce_coeff')
         cov_pce = zeros(N);
