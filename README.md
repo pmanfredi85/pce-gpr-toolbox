@@ -85,7 +85,8 @@ Citation metadata is also available in [`CITATION.cff`](CITATION.cff).
 
 - 📘 [UQLab](https://www.uqlab.com): The original uncertainty quantification framework on which this toolbox is based.
 - 📘 [gx2](https://github.com/abhranildas/gx2/releases/tag/v2.3.0): The toolbox to support the generalized chi-square distribution.
-- 📚 Related publication: https://doi.org/10.1016/j.cma.2024.117693
+- 📚 Related publication (theory): https://doi.org/10.1016/j.cma.2024.117693
+- 📚 Related publication (benchmarking): https://doi.org/10.1016/j.cma.2025.118523
 - 💾 Benchmark datasets: https://doi.org/10.5281/zenodo.15349691
 
 ## 🛠 License
