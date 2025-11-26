@@ -75,6 +75,8 @@ If you use this toolbox in your research, please cite:
 
 > P. Manfredi, *A hybrid polynomial chaos expansion–Gaussian process regression method for Bayesian uncertainty quantification and sensitivity analysis*, Computer Methods in Applied Mechanics and Engineering, vol. 436, no. 117693 (2025). DOI: https://doi.org/10.1016/j.cma.2024.117693
 
+> P. Manfredi, *Polynomial chaos vs kernel machine learning methods for uncertainty quantification: A comparative study and benchmarking with the hybrid PCE-GPR approach*, Computer Methods in Applied Mechanics and Engineering, vol. 449, part A, no. 118523 (2026). DOI: https://doi.org/10.1016/j.cma.2025.118523
+
 > P. Manfredi, *PCE-GPR: A toolbox for high-dimensional uncertainty quantification*, Zenodo (2025). DOI: https://doi.org/10.5281/zenodo.15348860
 
 Citation metadata is also available in [`CITATION.cff`](CITATION.cff).
